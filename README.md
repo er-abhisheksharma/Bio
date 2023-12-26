@@ -4,7 +4,7 @@ I'm a full-stack developer who loves building robust, scalable applications. I'm
 
 #### 🚀 Tech Stack
 - **Frontend:** React, Redux, JavaScript, HTML, CSS, Bootstrap
-- **Backend:** Django, Node.js, Express, MongoDB, MySQL
+- **Backend:** Django, Node.js, Express, MongoDB, MySQL, PostgreSQL
 - **DevOps:** AWS, Nginx, Jenkins, Git, GitHub Actions, Digital Ocean, Serverless Architecture
 
 <!-- #### 💻 Projects
